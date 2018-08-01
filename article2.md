@@ -24,4 +24,5 @@ then accept or refuse the PR
 
 ![Les Machines de Nantes](https://raw.githubusercontent.com/Ele-Riot-Grrrl/coding_is_awesome2/master/machines-de-lile-nantes.jpg "Elephant Nantes")
 
-![Les Machines de Nantes - Dragon] (https://raw.githubusercontent.com/Ele-Riot-Grrrl/coding_is_awesome2/master/dragon-machines-nantes.jpg "Dragon Nantes")
+
+![Les Machines de Nantes](https://raw.githubusercontent.com/Ele-Riot-Grrrl/coding_is_awesome2/master/dragon-machines-nantes.jpg)
