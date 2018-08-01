@@ -1,7 +1,3 @@
 # Titre de mon sujet
 
-faire des PR 
-[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "mon logo"
-faire des PR 
-[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png
-[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png
+faire des PR et des RP ?
