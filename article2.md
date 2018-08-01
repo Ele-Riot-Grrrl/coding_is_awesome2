@@ -30,3 +30,4 @@ then accept or refuse the PR
 ![Les Machines de Nantes](https://raw.githubusercontent.com/Ele-Riot-Grrrl/coding_is_awesome2/master/dragon-machines-nantes.jpg)
 
 ![Les Machines de Nantes](https://raw.githubusercontent.com/Ele-Riot-Grrrl/coding_is_awesome2/master/pteranodon-nantes.jpg)
+![Loi kratong](https://github.com/Ele-Riot-Grrrl/coding_is_awesome2/blob/master/loi-kratong-festival.jpg)
