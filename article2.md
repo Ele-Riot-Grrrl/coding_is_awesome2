@@ -13,3 +13,9 @@ git commit -m"message"
 git push
 create a pull request (PR)on github
 then accept or refuse the PR
+
+ ###### I've just decided to start a list :
+ 1. First item
+ 2. Second item
+ * Une petite puce !
+ 4. Fourth item
